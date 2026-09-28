@@ -1,0 +1,107 @@
+{
+  "slug": "unaniclear",
+  "box": 82,
+  "date": "2026-10-01",
+  "title": "UnaniClear",
+  "question": "How does Unani medicine work?",
+  "hook": "Unani means “Greek”: a 2,400-year-old system that travelled from Hippocrates to Baghdad to Delhi. Follow Ibn Sina’s Canon across a map, move a patient’s mizaj across the hot–cold, moist–dry board, work out the suction in a hijama cup, and run a fair trial to see what the evidence really says.",
+  "thumbText": "HOW UNANI WORKS",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "unani",
+    "unani medicine",
+    "hakim",
+    "ibn sina",
+    "four humours",
+    "traditional medicine",
+    "ayush",
+    "india",
+    "clinical trials",
+    "human body",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "From Greece to Baghdad to Delhi",
+      "text": "Unani grew from the Greek medicine of Hippocrates and Galen. Baghdad’s translators put it into Arabic, al-Razi and Ibn Sina expanded it, and hakims brought it to India from the 13th century. Today India has more Unani colleges, hospitals and practitioners than anywhere else, under the Ministry of AYUSH."
+    },
+    {
+      "title": "Four humours, one temperament",
+      "text": "In its own terms, Unani says the body holds four humours, dam, balgham, safra and sauda, whose mix sets your mizaj: hot or cold, moist or dry. Tabiyat, the body’s healing power, keeps pulling it back to balance, and six essential factors such as air, food and sleep tip it."
+    },
+    {
+      "title": "Pulse, flask, cup and jar",
+      "text": "A hakim reads the pulse (nabz), looks at urine in a flask (qaroora) and asks about your life. Treatments are regimental therapy such as hijama (cupping), diet, and medicines like majoon, khamira and arq. In fire cupping, air sealed at 120 °C cools to skin temperature and its pressure falls by about 22 kPa."
+    },
+    {
+      "title": "What history got right and wrong",
+      "text": "Ibn Sina’s Canon set out rules for testing a medicine and described diseases that pass between people. But the theory of humours did not survive: cells, germs and chemistry replaced it in the 1800s. The popular story that Ibn Sina invented a 40-day quarantine is not in the Canon."
+    },
+    {
+      "title": "What the evidence says",
+      "text": "Only a fair test, randomised, blinded and placebo-controlled, can show if a remedy works. Good trials of Unani medicines are still few, and cupping trials are mostly low quality. Some preparations have contained lead or mercury, and herbs can interact with medicines."
+    },
+    {
+      "title": "Using it wisely",
+      "text": "Never stop prescribed medicine, tell every doctor and hakim what you take, and see a qualified doctor for serious illness. Unani’s six factors overlap with evidence-based advice, like ICMR-NIN’s limit of 5 g of added salt a day and 30–45 minutes of activity."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Unani",
+      "def": "From “Yunani”, Greek: a system of medicine built on Greek humoral theory, developed in the Islamic world and now practised mainly in South Asia."
+    },
+    {
+      "term": "Hakim",
+      "def": "A practitioner of Unani medicine; in India, trained through the 5½-year BUMS degree."
+    },
+    {
+      "term": "Akhlat (humours)",
+      "def": "Unani’s four body fluids: dam (blood), balgham (phlegm), safra (yellow bile) and sauda (black bile)."
+    },
+    {
+      "term": "Mizaj",
+      "def": "Temperament: a person’s blend of hot or cold and moist or dry, as Unani describes it."
+    },
+    {
+      "term": "Tabiyat",
+      "def": "In Unani, the body’s own power to keep itself in balance and heal."
+    },
+    {
+      "term": "Asbab-e-sitta zarooriya",
+      "def": "The six essential factors: air, food and drink, movement and rest, emotions, sleep and waking, retention and elimination."
+    },
+    {
+      "term": "Hijama",
+      "def": "Cupping: a cup with low pressure inside sucks up the skin; wet cupping also draws a little blood."
+    },
+    {
+      "term": "Placebo",
+      "def": "A look-alike dummy treatment; comparing against it shows what a remedy really adds."
+    },
+    {
+      "term": "AYUSH",
+      "def": "India’s ministry for Ayurveda, Yoga, Unani, Siddha, Sowa-Rigpa and Homoeopathy, set up in 2014; CCRUM is its Unani research council."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "unaniclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

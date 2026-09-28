@@ -1,0 +1,834 @@
+{
+  "title": "The history of Unani medicine",
+  "tagline": "From Hippocrates to Baghdad to Delhi: 2,400 years of the “Greek medicine”.",
+  "intro": "Unani began as the Greek medicine of Hippocrates and Galen. Scholars in Baghdad translated it, doctors like al-Razi and Ibn Sina added their own observations and rules, and hakims carried it to India, where it is now most widely practised. Along the way Europe learned from it and then left the humours behind, while Indian scientists tested its plants in the laboratory.",
+  "eras": [
+    {
+      "id": "greek",
+      "name": "Greek roots",
+      "from": -460,
+      "to": 216,
+      "color": "#c49bff",
+      "summary": "Hippocrates and Galen describe four humours and four temperaments."
+    },
+    {
+      "id": "golden",
+      "name": "Arabic and Persian masters",
+      "from": 750,
+      "to": 1260,
+      "color": "#ffd166",
+      "summary": "Baghdad translates the Greeks; al-Razi and Ibn Sina observe, test and organise."
+    },
+    {
+      "id": "europe",
+      "name": "Europe learns and moves on",
+      "from": 1150,
+      "to": 1880,
+      "color": "#8ef0ff",
+      "summary": "The Canon is taught in Europe for centuries, until cells and germs replace the humours."
+    },
+    {
+      "id": "india",
+      "name": "Unani comes to India",
+      "from": 1206,
+      "to": 1857,
+      "color": "#ff8a5c",
+      "summary": "Hakims arrive with the Delhi Sultanate and flourish at Mughal courts."
+    },
+    {
+      "id": "revival",
+      "name": "Colleges and chemistry",
+      "from": 1880,
+      "to": 1950,
+      "color": "#ff6b9a",
+      "summary": "Hakim Ajmal Khan’s college, Hamdard, and plant drugs tested by Indian scientists."
+    },
+    {
+      "id": "today",
+      "name": "Unani in modern India",
+      "from": 1970,
+      "to": 2025,
+      "color": "#6ee7a8",
+      "summary": "Laws, a research council, a ministry, a regulator and global standards."
+    }
+  ],
+  "events": [
+    {
+      "year": -400,
+      "date": "c. 400 BCE",
+      "era": "greek",
+      "art": "scroll",
+      "key": true,
+      "title": "Four humours in the body",
+      "who": "Hippocrates and his followers (the treatise is often credited to his son-in-law Polybus)",
+      "where": "Kos",
+      "country": "Greece",
+      "text": "The Hippocratic book On the Nature of Man says the body holds blood, phlegm, yellow bile and black bile, and that health is their right balance. Hippocratic doctors also stressed careful observation of the patient.",
+      "why": "It is the root idea of Unani, whose name means “Greek”.",
+      "box": "roots",
+      "sources": [
+        2,
+        1
+      ]
+    },
+    {
+      "year": 170,
+      "date": "c. 170 CE",
+      "era": "greek",
+      "art": "person",
+      "key": true,
+      "title": "Galen builds the system",
+      "who": "Galen of Pergamon",
+      "where": "Pergamon and Rome",
+      "country": "Turkey / Italy",
+      "text": "Galen, a Greek doctor working in Rome, joined the four humours to the qualities hot, cold, moist and dry and wrote hundreds of works. His ideas ruled medicine in Europe and the Islamic world for over a thousand years.",
+      "why": "Galen’s temperaments became Unani’s mizaj.",
+      "box": "ideas",
+      "sources": [
+        3,
+        1
+      ]
+    },
+    {
+      "year": 830,
+      "date": "9th century",
+      "era": "golden",
+      "art": "scroll",
+      "key": true,
+      "title": "The House of Wisdom translates the Greeks",
+      "who": "Scholars of the Abbasid caliphs, especially under al-Ma’mun (r. 813–833)",
+      "where": "Baghdad",
+      "country": "Iraq",
+      "text": "Baghdad became a centre of translation where Greek, Persian and Indian books were put into Arabic. The House of Wisdom is the name linked to this effort, though historians debate how big an institution it was.",
+      "why": "It carried Greek medicine into Arabic, where it grew.",
+      "box": "roots",
+      "sources": [
+        4,
+        0
+      ]
+    },
+    {
+      "year": 850,
+      "date": "c. 850–873",
+      "era": "golden",
+      "art": "word",
+      "title": "Galen in Arabic",
+      "who": "Hunayn ibn Ishaq",
+      "where": "Baghdad",
+      "country": "Iraq",
+      "text": "The Christian physician Hunayn ibn Ishaq and his team translated most of Galen’s works into Syriac and Arabic, with great care for accuracy.",
+      "why": "Arabic doctors could now read Galen in full.",
+      "sources": [
+        5,
+        4
+      ]
+    },
+    {
+      "year": 850,
+      "date": "c. 850",
+      "era": "golden",
+      "art": "leaf",
+      "title": "A Persian book with an Indian chapter",
+      "who": "Ali ibn Sahl Rabban al-Tabari",
+      "where": "Samarra, near Baghdad",
+      "country": "Iraq",
+      "text": "Al-Tabari’s Firdaws al-Hikma (Paradise of Wisdom) summed up Greek medicine and added a section on Indian medicine, drawn from Sanskrit sources.",
+      "why": "An early meeting of Greek and Indian medical traditions.",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 900,
+      "date": "c. 900",
+      "era": "golden",
+      "art": "flask",
+      "key": true,
+      "title": "A doctor who kept notes",
+      "who": "Abu Bakr al-Razi (Rhazes)",
+      "where": "Rey and Baghdad",
+      "country": "Iran / Iraq",
+      "text": "Al-Razi ran hospitals and kept detailed case notes, collected after his death as al-Hawi, a huge medical encyclopedia. He also questioned some of Galen’s claims when they did not match what he saw.",
+      "why": "He showed that experience can correct the old books.",
+      "box": "legacy",
+      "sources": [
+        7,
+        8
+      ]
+    },
+    {
+      "year": 910,
+      "date": "c. 910 (attributed dating)",
+      "era": "golden",
+      "art": "cell",
+      "title": "Smallpox and measles told apart",
+      "who": "Abu Bakr al-Razi",
+      "where": "Baghdad",
+      "country": "Iraq",
+      "text": "In his Treatise on Smallpox and Measles, al-Razi gave the first known clear description of the two diseases as different illnesses.",
+      "why": "A landmark in describing infectious diseases by careful observation.",
+      "sources": [
+        7,
+        8
+      ]
+    },
+    {
+      "year": 925,
+      "date": "c. 900–925",
+      "era": "golden",
+      "art": "scales",
+      "title": "An early controlled comparison",
+      "who": "Abu Bakr al-Razi",
+      "where": "Baghdad",
+      "country": "Iraq",
+      "text": "Al-Razi describes treating one group of patients with brain inflammation by bloodletting and deliberately leaving another group untreated, then comparing them.",
+      "why": "An early seed of the controlled trial (see the evidence chapter).",
+      "box": "evidence",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1025,
+      "date": "1025",
+      "era": "golden",
+      "art": "scroll",
+      "key": true,
+      "title": "The Canon of Medicine",
+      "who": "Ibn Sina (Avicenna)",
+      "where": "Hamadan",
+      "country": "Iran",
+      "text": "Ibn Sina finished al-Qanun fi al-Tibb, five books covering the humours and temperaments, diseases, and hundreds of medicines. It also set out rules for testing whether a medicine works, and described some diseases as passing between people.",
+      "why": "It became the core text of Unani, still studied by hakims today.",
+      "box": "legacy",
+      "sources": [
+        9,
+        10,
+        32
+      ]
+    },
+    {
+      "year": 1150,
+      "date": "12th century",
+      "era": "europe",
+      "art": "word",
+      "title": "The Canon in Latin",
+      "who": "Gerard of Cremona (c. 1114–1187)",
+      "where": "Toledo",
+      "country": "Spain",
+      "text": "Gerard translated the Canon from Arabic into Latin in Toledo, a meeting point of Arabic and European learning. Printed Latin editions later spread it across Europe.",
+      "why": "Europe’s doctors now learned medicine partly from Ibn Sina.",
+      "sources": [
+        12,
+        9
+      ]
+    },
+    {
+      "year": 1206,
+      "date": "from 1206",
+      "era": "india",
+      "art": "person",
+      "key": true,
+      "title": "Hakims come to India",
+      "who": "Physicians of the Delhi Sultanate",
+      "where": "Delhi",
+      "country": "India",
+      "text": "With the Delhi Sultanate from the 13th century, Persian- and Arabic-speaking hakims settled in India. Their medicine became known as Unani Tibb, “Greek medicine”.",
+      "why": "It began Unani’s long home in South Asia.",
+      "box": "roots",
+      "sources": [
+        35,
+        0,
+        13
+      ]
+    },
+    {
+      "year": 1242,
+      "date": "c. 1242 (usual dating)",
+      "era": "golden",
+      "art": "lungs",
+      "title": "Blood goes through the lungs",
+      "who": "Ibn al-Nafis",
+      "where": "Cairo",
+      "country": "Egypt",
+      "text": "Writing a commentary on the Canon, Ibn al-Nafis said blood must pass through the lungs to get from the right side of the heart to the left, correcting Galen.",
+      "why": "Doctors in this tradition could and did correct their masters.",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1556,
+      "date": "16th–17th centuries (hedged)",
+      "era": "india",
+      "art": "scroll",
+      "title": "Hakims at the Mughal court",
+      "who": "Physicians at the courts of Akbar, Shah Jahan and Aurangzeb",
+      "where": "Agra, Delhi and Lahore",
+      "country": "India / Pakistan",
+      "text": "Mughal emperors kept court hakims and supported medical books in Persian. Unani also learned from local practice and Indian plants.",
+      "why": "Unani grew into an Indian system with Indian medicines.",
+      "sources": [
+        0,
+        13
+      ]
+    },
+    {
+      "year": 1650,
+      "date": "until about 1650 (hedged)",
+      "era": "europe",
+      "art": "building",
+      "key": true,
+      "title": "Still a textbook in Europe",
+      "who": "Medical schools of Montpellier and Louvain",
+      "where": "Montpellier and Louvain",
+      "country": "France / Belgium",
+      "text": "The Canon was read in European universities for centuries. It was used as a textbook at Montpellier and Louvain until about the mid-1600s, though its influence was fading by then.",
+      "why": "Few medical books have been taught for so long.",
+      "sources": [
+        10,
+        9
+      ]
+    },
+    {
+      "year": 1858,
+      "date": "1858",
+      "era": "europe",
+      "art": "cell",
+      "key": true,
+      "title": "Europe drops the humours",
+      "who": "Rudolf Virchow, then Louis Pasteur and Robert Koch",
+      "where": "Berlin and Paris",
+      "country": "Germany / France",
+      "text": "Virchow’s Cellular Pathology (1858) explained disease as trouble in cells, and in the following decades germ theory showed that microbes cause many illnesses. European medicine left the four humours behind.",
+      "why": "It is the split between modern medicine and humoral systems like Unani.",
+      "box": "legacy",
+      "sources": [
+        30,
+        31,
+        1
+      ]
+    },
+    {
+      "year": 1883,
+      "date": "1883",
+      "era": "revival",
+      "art": "building",
+      "title": "A school of Unani in Delhi",
+      "who": "Hakim Abdul Majeed Khan",
+      "where": "Delhi",
+      "country": "India",
+      "text": "Hakim Abdul Majeed Khan set up the Madrasa Tibbiya in Delhi to teach Unani in a structured way.",
+      "why": "It grew into Tibbiya College.",
+      "sources": [
+        14,
+        0
+      ]
+    },
+    {
+      "year": 1906,
+      "date": "1906",
+      "era": "revival",
+      "art": "flask",
+      "title": "Hamdard begins",
+      "who": "Hakim Hafiz Abdul Majeed",
+      "where": "Delhi",
+      "country": "India",
+      "text": "A hakim opened the Hamdard Dawakhana, a small Unani medicine shop in old Delhi. It grew into one of India’s largest makers of Unani products.",
+      "why": "It turned Unani medicines into a modern industry.",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 1921,
+      "date": "1916 and 1921",
+      "era": "revival",
+      "art": "building",
+      "key": true,
+      "title": "Tibbiya College opens",
+      "who": "Hakim Ajmal Khan",
+      "where": "Karol Bagh, Delhi",
+      "country": "India",
+      "text": "Hakim Ajmal Khan, a physician and freedom fighter, led the building of a new college. Its foundation stone was laid in 1916, and Mahatma Gandhi opened it on 13 February 1921. It taught Unani and Ayurveda under one roof.",
+      "why": "It became a model for teaching Indian systems of medicine.",
+      "box": "roots",
+      "sources": [
+        14,
+        15
+      ]
+    },
+    {
+      "year": 1931,
+      "date": "1931",
+      "era": "revival",
+      "art": "molecule",
+      "title": "A drug named after a hakim",
+      "who": "Salimuzzaman Siddiqui",
+      "where": "Tibbiya College research institute, Delhi",
+      "country": "India",
+      "text": "Working at the institute Ajmal Khan founded, the chemist Salimuzzaman Siddiqui isolated alkaloids from Rauvolfia serpentina and named one ajmaline after Ajmal Khan. It is still used to test for a heart rhythm disorder.",
+      "why": "A plant used in traditional medicine gave a modern, tested drug.",
+      "sources": [
+        16,
+        17
+      ]
+    },
+    {
+      "year": 1949,
+      "date": "1949",
+      "era": "revival",
+      "art": "heart",
+      "title": "A fair test of an Indian plant",
+      "who": "Rustom Jal Vakil",
+      "where": "Bombay (Mumbai)",
+      "country": "India",
+      "text": "Vakil published a trial of Rauvolfia serpentina for high blood pressure in the British Heart Journal. Its compound reserpine became a worldwide blood-pressure medicine in the 1950s.",
+      "why": "Plants from traditional medicine can prove themselves in fair tests.",
+      "box": "evidence",
+      "sources": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "1970",
+      "era": "today",
+      "art": "scales",
+      "title": "A law for Indian systems of medicine",
+      "who": "Parliament of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The Indian Medicine Central Council Act set up the Central Council of Indian Medicine to regulate the education and practice of Ayurveda, Siddha and Unani.",
+      "why": "It made Unani a regulated profession with recognised degrees such as BUMS.",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1978,
+      "date": "1978",
+      "era": "today",
+      "art": "flask",
+      "key": true,
+      "title": "A research council for Unani",
+      "who": "Government of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The Central Council for Research in Unani Medicine (CCRUM) was set up to study Unani medicines and treatments, with institutes around India, including the Central Research Institute of Unani Medicine in Hyderabad.",
+      "why": "Unani research got its own national body.",
+      "box": "evidence",
+      "sources": [
+        22,
+        13
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "1984",
+      "era": "today",
+      "art": "building",
+      "title": "A national institute",
+      "who": "Government of India and Government of Karnataka",
+      "where": "Bengaluru",
+      "country": "India",
+      "text": "The National Institute of Unani Medicine was set up in Bengaluru for postgraduate teaching and research in Unani.",
+      "why": "It trains Unani specialists and researchers.",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 1989,
+      "date": "1989",
+      "era": "today",
+      "art": "flask",
+      "title": "Lead found in kushtas",
+      "who": "I. Haq and M. Asghar",
+      "where": "Pakistan",
+      "country": "Pakistan",
+      "text": "Chemists measured lead in kushtas, traditional preparations made by strongly heating metals and minerals, used in Unani and Ayurvedic practice in the subcontinent. Several contained large amounts.",
+      "why": "It showed that some traditional preparations can carry toxic metals.",
+      "box": "evidence",
+      "sources": [
+        34
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "2009",
+      "era": "today",
+      "art": "scales",
+      "title": "Trials must be registered",
+      "who": "Drugs Controller General of India and ICMR",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "Registering clinical trials in the Clinical Trials Registry–India (CTRI) became mandatory, so trials, including trials of AYUSH medicines, are announced before results are known.",
+      "why": "Registration stops failed trials from quietly disappearing.",
+      "box": "evidence",
+      "sources": [
+        36
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "2012",
+      "era": "today",
+      "art": "word",
+      "title": "Weighing the cupping trials",
+      "who": "Huijuan Cao, Xun Li and Jianping Liu",
+      "where": "Beijing and Sydney",
+      "country": "China / Australia",
+      "text": "A review of 135 randomised trials of cupping found possible benefit for a few conditions, such as shingles pain, but most trials were small and of low quality.",
+      "why": "It shows how much better testing is still needed.",
+      "box": "evidence",
+      "sources": [
+        33
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "9 November 2014",
+      "era": "today",
+      "art": "building",
+      "key": true,
+      "title": "A ministry of its own",
+      "who": "Government of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The Department of AYUSH, created as ISM&H in 1995 and renamed in 2003, became a full Ministry of AYUSH, covering Ayurveda, Yoga, Unani, Siddha, Sowa-Rigpa and Homoeopathy.",
+      "why": "Unani got a place at the top of India’s health administration.",
+      "box": "roots",
+      "sources": [
+        24,
+        29,
+        37
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "11 February 2017",
+      "era": "today",
+      "art": "leaf",
+      "title": "The first Unani Day",
+      "who": "Ministry of AYUSH and CCRUM",
+      "where": "Hyderabad",
+      "country": "India",
+      "text": "India began marking Unani Day on 11 February, the birthday of Hakim Ajmal Khan, with the first event at CCRUM’s institute in Hyderabad.",
+      "why": "It honours the man who modernised Unani teaching.",
+      "sources": [
+        26,
+        27
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "2020",
+      "era": "today",
+      "art": "scales",
+      "title": "A new regulator",
+      "who": "Parliament of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The National Commission for Indian System of Medicine Act replaced the old council with the NCISM, which regulates Unani, Ayurveda, Siddha and Sowa-Rigpa education and practice.",
+      "why": "It sets the standards for today’s hakims.",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "2022",
+      "era": "today",
+      "art": "word",
+      "title": "Global standards for Unani",
+      "who": "World Health Organization, with the Ministry of Ayush",
+      "where": "Geneva and New Delhi",
+      "country": "Switzerland / India",
+      "text": "WHO published benchmarks for the training and the practice of Unani medicine, including safety, developed with India’s support.",
+      "why": "It describes how Unani should be taught and practised safely worldwide.",
+      "sources": [
+        28
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Four humours described",
+      "value": "c. 400 BCE",
+      "who": "Hippocratic writings, Greece"
+    },
+    {
+      "label": "Smallpox told apart from measles",
+      "value": "c. 910",
+      "who": "al-Razi, Baghdad"
+    },
+    {
+      "label": "The Canon of Medicine finished",
+      "value": "1025",
+      "who": "Ibn Sina, Hamadan"
+    },
+    {
+      "label": "Unani and Ayurveda taught under one roof",
+      "value": "1921",
+      "who": "Tibbiya College, Delhi"
+    },
+    {
+      "label": "Ajmaline isolated and named after a hakim",
+      "value": "1931",
+      "who": "Salimuzzaman Siddiqui, Delhi"
+    }
+  ],
+  "people": [
+    {
+      "name": "Hippocrates",
+      "life": "c. 460 – c. 375 BCE",
+      "role": "Physician",
+      "from": "Kos, Greece",
+      "note": "The Hippocratic writings describe the four humours at the root of Unani."
+    },
+    {
+      "name": "Galen",
+      "life": "129 – c. 216",
+      "role": "Physician",
+      "from": "Pergamon, worked in Rome",
+      "note": "Built the humours and temperaments into the system Unani inherited."
+    },
+    {
+      "name": "Hunayn ibn Ishaq",
+      "life": "809 – 873",
+      "role": "Physician and translator",
+      "from": "al-Hira, worked in Baghdad",
+      "note": "Translated most of Galen into Syriac and Arabic."
+    },
+    {
+      "name": "Abu Bakr al-Razi",
+      "life": "c. 854 – c. 925/935",
+      "role": "Physician",
+      "from": "Rey, Persia",
+      "note": "Kept case notes, compared treated and untreated patients, and told smallpox from measles."
+    },
+    {
+      "name": "Ibn Sina (Avicenna)",
+      "life": "980 – 1037",
+      "role": "Physician and philosopher",
+      "from": "Near Bukhara, worked in Persia",
+      "note": "Wrote the Canon of Medicine, the core text of Unani."
+    },
+    {
+      "name": "Hakim Ajmal Khan",
+      "life": "1868 – 1927",
+      "role": "Physician, educator and freedom fighter",
+      "from": "Delhi, India",
+      "note": "Founded Tibbiya College and backed scientific research on Unani medicines; Unani Day marks his birthday."
+    },
+    {
+      "name": "Salimuzzaman Siddiqui",
+      "life": "1897 – 1994",
+      "role": "Chemist",
+      "from": "Barabanki, India",
+      "note": "Isolated ajmaline from Rauvolfia serpentina at Tibbiya College’s research institute."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "“Unani” comes from Yunan, the Arabic and Persian name for Greece.",
+    "English still carries the humours: sanguine, phlegmatic, choleric and melancholy all come from them.",
+    "India has more Unani colleges, hospitals and registered practitioners than any other country: about 57 colleges and roughly 50,000 practitioners.",
+    "The heart drug ajmaline is named after Hakim Ajmal Khan.",
+    "The popular claim that Ibn Sina invented a 40-day quarantine has not been found in the Canon; the word comes from Venetian “quaranta giorni”."
+  ],
+  "sources": [
+    {
+      "title": "Unani medicine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Unani_medicine"
+    },
+    {
+      "title": "Humorism",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Humorism"
+    },
+    {
+      "title": "Hippocrates",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Hippocrates"
+    },
+    {
+      "title": "Galen",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Galen"
+    },
+    {
+      "title": "House of Wisdom",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/House_of_Wisdom"
+    },
+    {
+      "title": "Hunayn ibn Ishaq",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Hunayn-ibn-Ishaq"
+    },
+    {
+      "title": "Ali ibn Sahl Rabban al-Tabari",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ali_ibn_Sahl_Rabban_al-Tabari"
+    },
+    {
+      "title": "al-Razi",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/al-Razi"
+    },
+    {
+      "title": "Al-Razi and Islamic medicine in the 9th century (S. Tibi), J R Soc Med 99:206",
+      "publisher": "Journal of the Royal Society of Medicine (2006)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1420785/"
+    },
+    {
+      "title": "The Canon of Medicine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Canon_of_Medicine"
+    },
+    {
+      "title": "The Canon of Medicine",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/The-Canon-of-Medicine"
+    },
+    {
+      "title": "Ibn al-Nafis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ibn_al-Nafis"
+    },
+    {
+      "title": "Gerard of Cremona",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gerard_of_Cremona"
+    },
+    {
+      "title": "Unani System of Medicine: The Science of Health and Healing",
+      "publisher": "CCRUM, Ministry of AYUSH (2016)",
+      "url": "https://ccrum.res.in/writereaddata/UploadFile/The%20Science%20of%20Health%20and%20Healing01076_1861.pdf"
+    },
+    {
+      "title": "History of the college",
+      "publisher": "Ayurvedic and Unani Tibbia College and Hospital, Government of NCT of Delhi",
+      "url": "https://autch.delhi.gov.in/autch/history"
+    },
+    {
+      "title": "Hakim Ajmal Khan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hakim_Ajmal_Khan"
+    },
+    {
+      "title": "Salimuzzaman Siddiqui",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Salimuzzaman_Siddiqui"
+    },
+    {
+      "title": "Ajmaline",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ajmaline"
+    },
+    {
+      "title": "Hamdard Laboratories (India)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hamdard_Laboratories_(India)"
+    },
+    {
+      "title": "A clinical trial of Rauwolfia serpentina in essential hypertension (R. J. Vakil)",
+      "publisher": "British Heart Journal 11:350 (1949)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18140347/"
+    },
+    {
+      "title": "Reserpine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Reserpine"
+    },
+    {
+      "title": "Central Council of Indian Medicine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Central_Council_of_Indian_Medicine"
+    },
+    {
+      "title": "Central Council for Research in Unani Medicine",
+      "publisher": "CCRUM",
+      "url": "https://ccrum.res.in/"
+    },
+    {
+      "title": "National Institute of Unani Medicine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Institute_of_Unani_Medicine"
+    },
+    {
+      "title": "Ministry of Ayush",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Ayush"
+    },
+    {
+      "title": "National Commission for Indian System of Medicine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Commission_for_Indian_System_of_Medicine"
+    },
+    {
+      "title": "World Unani Day",
+      "publisher": "National Health Portal of India",
+      "url": "https://www.nhp.gov.in/world-unani-day_mtl"
+    },
+    {
+      "title": "National Unani Day celebrated to mark birth anniversary of Hakim Ajmal Khan",
+      "publisher": "The Pioneer (2017)",
+      "url": "https://www.dailypioneer.com/2017/state-editions/national-unani-day-celebrated-across-the-country-to-mark-birth-centenary-of-hakim-ajmal-khan.html"
+    },
+    {
+      "title": "WHO benchmarks for the training of Unani medicine",
+      "publisher": "World Health Organization (2022)",
+      "url": "https://www.who.int/publications/i/item/9789240042735"
+    },
+    {
+      "title": "Promotion of Unani System of Medicine",
+      "publisher": "Press Information Bureau, Ministry of Ayush",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209010"
+    },
+    {
+      "title": "Rudolf Virchow",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Rudolf-Virchow"
+    },
+    {
+      "title": "Germ theory of disease",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Germ_theory_of_disease"
+    },
+    {
+      "title": "Quarantine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Quarantine"
+    },
+    {
+      "title": "An updated review of the efficacy of cupping therapy (Cao, Li & Liu)",
+      "publisher": "PLoS One 7:e31793 (2012)",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0031793"
+    },
+    {
+      "title": "Lead content of some traditional preparations: Kushtas (Haq & Asghar)",
+      "publisher": "Journal of Ethnopharmacology 26:287 (1989)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2615409"
+    },
+    {
+      "title": "Delhi Sultanate",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/place/Delhi-sultanate"
+    },
+    {
+      "title": "Clinical Trials Registry – India",
+      "publisher": "ICMR National Institute of Medical Statistics",
+      "url": "https://ctri.nic.in/"
+    },
+    {
+      "title": "7.37 lakh registered AYUSH practitioners in the country",
+      "publisher": "Business Standard / PTI (2015)",
+      "url": "https://www.business-standard.com/article/pti-stories/7-37-lakh-registered-ayush-practitioners-in-the-country-115042800660_1.html"
+    }
+  ]
+}
